@@ -1,0 +1,5 @@
+Application started
+User Koti logged in
+User Ravi logged in
+Processing completed
+Application stopped
